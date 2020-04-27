@@ -15,7 +15,7 @@ This is an attempt to understand COVID-19 by implementing the SIR model, a mathe
 - Google Colab  
 [SIRmodel-animation - Colaboratory](https://colab.research.google.com/drive/1SdJ71yLRmkw0RrzN-R3pJAXJvjFcnPWA#scrollTo=kkw2dU0soOFR&uniqifier=1)
 
-- Jupyter Notebook
+- Jupyter Notebook  
 [SIRmodel_animation.ipynb](./SIRmodel_animation.ipynb)
 
 ## Reference
