@@ -6,10 +6,10 @@ COVID-19について、感染病の数学予測モデル「SIRモデル」をPyt
 This is an attempt to understand COVID-19 by implementing the SIR model, a mathematical prediction model for infectious diseases, in Python and using animation.
 
 ## Movie 🎬
-[]()
+[【阪大医学部卒が語る新型コロナ！】Pythonによる感染者数シミュレータの作り方 - YouTube](https://www.youtube.com/watch?v=CdS69DxQzZ0)
 
 ## Article 📖
-[]()
+[【COVID19×Python】SIRモデルをアニメーションを作って理解する-Med Python](https://medpython.blogspot.com/2020/04/covid19-python-sirmodel-animation.html)
 
 ## Python code 💻
 - Google Colab  
